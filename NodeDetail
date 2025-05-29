@@ -1,0 +1,13 @@
+To verify the version:
+-> node -v
+-> npm -v
+
+Initialize Node.js Project:
+-> npm init -y
+
+Install Required Packages
+-> npm install express pg dotenv
+    express – Web framework
+    pg – PostgreSQL driver
+    dotenv – Load environment variables from .env file
+
